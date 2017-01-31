@@ -5,3 +5,4 @@ DOB
 AddrId
 DOL
 DOJ
+BloodGroup
