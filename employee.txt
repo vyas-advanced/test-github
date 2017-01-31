@@ -6,4 +6,4 @@ AddrId
 DOL
 DOJ
 BloodGroup
-Phone
+PhoneNumber
